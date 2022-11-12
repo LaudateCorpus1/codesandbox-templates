@@ -17,7 +17,7 @@
     "aurelia-tools": "^2.0.0",
     "core-js": "^3.0.0",
     "gulp": "^4.0.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "through2": "^3.0.0",
     "vinyl-fs": "^3.0.3",
     "ts-loader": "^5.2.1",
